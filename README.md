@@ -15,15 +15,15 @@ So,Top management wanted the analytics team to create a dashboard for various ke
 2. MS Excel <br>
 3. Power BI <br>
 
-**Solution** :
-I created various dashboards for key departments to give an overview of company performance.
+**Solution** :<br>
+I created various dashboards for key departments to give an overview of company performance.<br>
 1)Finance view <br>
 2)Sales view <br>
 3)Marketing view <br>
 4)Supply channel view <br>
 5)Executive View <br>
 
-**What did I learn in Power BI?**
+**What did I learn in Power BI?**<br>
 1)Various DAX formulas.<br>
 2)Data modeling.<br>
 3)Data Validations.<br>
